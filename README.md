@@ -1,6 +1,6 @@
 
 <div align="center">
-<img alt="Raissa-gif" height="200" style="border-radius:50px;" src="https://cdn.myportfolio.com/894c6cf7-f880-403e-8de0-d68433be9d14/c796b721-10c0-41fb-954f-98b053a0fcea_rw_1920.gif?h=e1165536ec62d284e1246bb80e71c5cc"/>
+<img alt="Raissa-gif" height="250" style="border-radius:50px;" src="https://camo.githubusercontent.com/b97dae894cb0ac4bf8a0fc7e4e2f8b4a41a7e80c3f515f3e2c2ac0c7fa1f1396/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f32614952784a38596974583034416d346b4f2f67697068792e676966"/>
 </div>
 
 
