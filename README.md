@@ -9,7 +9,7 @@
 - 🔭 Comecei minha carreira como Desenvolvedora Web estudando na Driven.
 - 🌱 Estou estudando front-end - HTML, CSS e JavaScript.
 - 📫 Contate-me no e-mail: rbaetadev@gmail.com.
-- 😄🏳️‍🌈 Pronomes: ela/dela.
+- 😄 🏳️‍🌈 Pronomes: ela/dela.
 
 <div align="center">
   <a href="https://github.com/raissabaeta">
