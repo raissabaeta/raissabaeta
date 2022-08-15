@@ -6,7 +6,7 @@
 
 ### Olá, eu sou a Raissa Baêta 👋
 
-- 🔭 Comecei minha carreira como Desenvolvedora Web.
+- 🔭 Comecei minha carreira como Desenvolvedora Web estudando na Labenu.
 - 🌱 Estou estudando front-end - HTML, CSS e JavaScript.
 - 📫 Contate-me no e-mail: rbaetadev@gmail.com.
 - 😄 🏳️‍🌈 Pronomes: ela/dela.
