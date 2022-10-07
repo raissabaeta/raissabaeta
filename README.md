@@ -7,7 +7,7 @@
 ### Olá, eu sou a Raissa Baêta 👋
 
 - 🔭 Comecei minha carreira como Desenvolvedora Web estudando na Labenu.
-- 🌱 Estou estudando front-end - HTML, CSS e JavaScript.
+- 🌱 Estou estudando front-end - HTML, CSS, JavaScript e React.
 - 📫 Contate-me no e-mail: rbaetadev@gmail.com.
 - 😄 🏳️‍🌈 Pronomes: ela/dela.
 
@@ -19,15 +19,17 @@
 
  <div style="display: inline_block"><br>
 <img align="center" alt="Raissa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Raissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Raissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Raissa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
+  
 </div>
 
  ##
   
 <div> 
   <a target="_blank" href="https://instagram.com/rahbaeta"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rbaetadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raissa-ba%C3%AAta-299615190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a target="_blank" href = "mailto:rbaetadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
+  <a target="_blank" href="https://www.linkedin.com/in/raissa-ba%C3%AAta-299615190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  
 </div>
